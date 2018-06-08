@@ -1,0 +1,17 @@
+﻿Build started 19/01/2016 10:12:41.
+     1>Project "\\ueahome4\stusci4\dha13jyu\data\Documents\Graphics 2\Coursework\CourseworkFiles\PlaneSim\objLoadingWIN32.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\objLoadingWIN32.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         objLoadingWIN32.vcxproj -> \\ueahome4\stusci4\dha13jyu\data\Documents\Graphics 2\Coursework\CourseworkFiles\PlaneSim\Debug\objLoadingWIN32.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\objLoadingWIN32.unsuccessfulbuild".
+         Touching "Debug\objLoadingWIN32.lastbuildstate".
+     1>Done Building Project "\\ueahome4\stusci4\dha13jyu\data\Documents\Graphics 2\Coursework\CourseworkFiles\PlaneSim\objLoadingWIN32.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12
